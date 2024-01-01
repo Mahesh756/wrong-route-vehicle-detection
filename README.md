@@ -1,6 +1,6 @@
-**Project Title:** **Wrong-Way Detection System for Traffic Monitoring**
+# Wrong-Way Detection System for Traffic Monitoring**
 
-**Overview:**
+## Overview:
 
 This Python-based system is designed to monitor and detect vehicles traveling in the wrong direction on roads. 
 The system employs computer vision techniques for real-time analysis of traffic flow. When a vehicle is identified moving against the designated direction,
